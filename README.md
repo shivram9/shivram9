@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivram9" alt="shivram9" /></a> </p>
 
 - 🌱 I’m currently learning **Foundational concepts in Machine Learning, including basic model training and evaluation
-      Core Full Stack Development skills: HTML, CSS, JavaScript, and Python**
+- Core Full Stack Development skills: HTML, CSS, JavaScript, and Python**
 
 - 📫 How to reach me **shivramreddy999@gmail.com**
 
