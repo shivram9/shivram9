@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivram Reddy</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Where Code Meets Collaboration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivram9&label=Profile%20views&color=0e75b6&style=flat" alt="shivram9" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivram9" alt="shivram9" /></a> </p>
+
+- 🌱 I’m currently learning **Foundational concepts in Machine Learning, including basic model training and evaluation Core Full Stack Development skills: HTML, CSS, JavaScript, and Python**
 
 - 📫 How to reach me **shivramreddy999@gmail.com**
 
